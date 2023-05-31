@@ -1,0 +1,1 @@
+print("Gayu's first python program in academor")
